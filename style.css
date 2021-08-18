@@ -1,0 +1,18 @@
+#mainHead{
+  text-align: center;
+  text-shadow: 1px 1px #CF000E;
+  border: 3px dotted #00A000;
+}
+
+#bodytext{
+  position: absolute;
+  left: 150px;
+}
+#navbar{
+  border: 2px dashed rgb(0, 0, 0);
+  max-width: 120px;
+  position: absolute;
+}
+h2{
+  color: #CC0E0E
+}
