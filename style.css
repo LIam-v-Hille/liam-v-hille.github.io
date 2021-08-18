@@ -9,13 +9,14 @@ h1{
   position: absolute;
   left: 150px;
   color: white;
+  max-width: 700px;
 }
 #navbar{
   border: 1px dashed rgb(255, 255, 255);
   max-width: 125px;
   position: absolute;
   text-align: justify;
-  color: white
+  color: white;
 }
 h2{
   color: #CC0E0E
@@ -25,4 +26,27 @@ body{
 }
 a{
   color: #BBBBFF
+}
+#picture{
+  position: absolute;
+  left: 1100px;
+  color: white;
+}
+
+#pictureLarge{
+  position: absolute;
+  left: 650px;
+  color: white;
+}
+#bodytextLarge{
+  position: absolute;
+  left: 150px;
+  color: white;
+  max-width: 500px;
+}
+#imageHigh{
+  position: absolute;
+  left: 900px;
+  top: 120px;
+  color: white;
 }
